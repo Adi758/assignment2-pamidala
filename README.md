@@ -29,4 +29,15 @@ Netaji Subhash Chandra Bose international airport is closest to National Museum
     * Handicraft Centre
     * Dakshineswar Kail Temple
  
-[link to aboutme](AboutMe.md) 
+[link to aboutme](AboutMe.md)
+
+****
+### Tables
+
+The following table describes famous cities everyone must visit.
+|Name of city|Important location|Time   |
+|:---------: |:----------------:|:-----:|
+| Newyork    | Statue of Liberty|3 hours|
+| Tokyo      | tokyo skytree    |4 hours|
+| London     | British museum   |5 hours|
+| Paris      | Eiffel tower     |5 hours|
