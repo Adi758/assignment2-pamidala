@@ -49,3 +49,20 @@ The following table describes famous cities everyone must visit.
 >Author: Eddie Mumford<br>
 >"Nobody reaches anywhere by believing."
 >Author: Osho
+
+***
+# Code fencing
+>When you start developing an application in PHP, you use a few commands like print_r() ,var_dump() to debug errors and log on to the browser. But, that is not the safest way while working in production mode. In dev mode, you can do it, but have to disable it when initiating the migration. Hence, in dev mode, you can easily log errors in PHP with error_log() function, which sends an error message to the defined error handling routines.Quick link to the source<https://www.cloudways.com/blog/php-error-logging/>
+
+```
+<?PHP Error Logging
+  # display no errs to user
+  php_flag display_startup_errors off
+  php_flag display_errors off
+  php_flag html_errors off
+  # log to file
+  php_flag log_errors on
+  php_value error_log /location/to/php_error.log
+?>
+```
+Quick link to the code<https://css-tricks.com/snippets/htaccess/php-error-logging/>
