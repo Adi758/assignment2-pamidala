@@ -41,3 +41,11 @@ The following table describes famous cities everyone must visit.
 | Tokyo      | tokyo skytree    |4 hours|
 | London     | British museum   |5 hours|
 | Paris      | Eiffel tower     |5 hours|
+
+
+****
+# Pithy Quotes
+>"Money is a tool, so I don't have to be."
+>Author: Eddie Mumford<br>
+>"Nobody reaches anywhere by believing."
+>Author: Osho
